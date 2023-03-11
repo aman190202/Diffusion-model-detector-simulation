@@ -1,4 +1,9 @@
 # Diffusion Models for Fast Detector Simulation
+Three channels of images are extracted :
+
+1. ECAL 
+<img src="ecal.png"/>
+2. HCA;
 ## Task 1 : Auto-encoder of the quark/gluon events
 ## Task 2 : Jets as graphs 
 
