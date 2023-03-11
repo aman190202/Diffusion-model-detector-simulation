@@ -7,6 +7,7 @@ Three channels of images are extracted :
 <img src="hcal.png"/>
 3. TRACK
 <img src="track.png"/>
+
 ## Task 1 : Auto-encoder of the quark/gluon events
 ## Task 2 : Jets as graphs 
 
